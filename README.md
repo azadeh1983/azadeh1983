@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azadeh1983
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning machine learning in python
+- now, I'm a PHD student at University of Kashan
 
 
 <!---
